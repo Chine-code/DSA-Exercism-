@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/binary_search.cpp
+binary_search.h
+/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/binary_search.h
+cmath
+-
+iostream
+-
+
+/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/binary_search.h
+vector
+-
+
