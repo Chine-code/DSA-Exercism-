@@ -1,0 +1,4 @@
+/home/chinedum/snap/exercism/5/exercism/cpp/phone-number/build/CMakeFiles/rebuild_cache.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/phone-number/build/CMakeFiles/edit_cache.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/phone-number/build/CMakeFiles/test_phone-number.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/phone-number/build/CMakeFiles/phone-number.dir
