@@ -1,0 +1,4 @@
+/home/chinedum/snap/exercism/5/exercism/cpp/pangram/build/CMakeFiles/rebuild_cache.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/pangram/build/CMakeFiles/edit_cache.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/pangram/build/CMakeFiles/test_pangram.dir
+/home/chinedum/snap/exercism/5/exercism/cpp/pangram/build/CMakeFiles/pangram.dir

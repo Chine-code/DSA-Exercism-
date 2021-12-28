@@ -2,7 +2,7 @@
 
 #include <cctype>
 #include <algorithm>
-
+//
 // 1. Convert all the words to either all lower or all upper characters.
 // 2. Create an Array of Size 26(No of English Alphabets).
 // 3. Loop through each character in the given string and 

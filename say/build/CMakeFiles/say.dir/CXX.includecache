@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chinedum/snap/exercism/5/exercism/cpp/say/say.cpp
+say.h
+/home/chinedum/snap/exercism/5/exercism/cpp/say/say.h
+iostream
+-
+unordered_map
+-
+utility
+-
+
+/home/chinedum/snap/exercism/5/exercism/cpp/say/say.h
+string
+-
+tuple
+-
+unordered_map
+-
+vector
+-
+
