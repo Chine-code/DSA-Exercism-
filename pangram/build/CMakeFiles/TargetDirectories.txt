@@ -1,4 +1,0 @@
-/home/chinedum/OSC/DSA-Exercism-/pangram/build/CMakeFiles/pangram.dir
-/home/chinedum/OSC/DSA-Exercism-/pangram/build/CMakeFiles/test_pangram.dir
-/home/chinedum/OSC/DSA-Exercism-/pangram/build/CMakeFiles/edit_cache.dir
-/home/chinedum/OSC/DSA-Exercism-/pangram/build/CMakeFiles/rebuild_cache.dir

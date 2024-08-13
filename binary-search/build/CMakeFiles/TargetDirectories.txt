@@ -1,4 +1,0 @@
-/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/build/CMakeFiles/rebuild_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/build/CMakeFiles/edit_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/build/CMakeFiles/test_binary-search.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/binary-search/build/CMakeFiles/binary-search.dir

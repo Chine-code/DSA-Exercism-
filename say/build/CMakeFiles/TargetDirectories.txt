@@ -1,4 +1,0 @@
-/home/chinedum/snap/exercism/5/exercism/cpp/say/build/CMakeFiles/rebuild_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/say/build/CMakeFiles/edit_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/say/build/CMakeFiles/test_say.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/say/build/CMakeFiles/say.dir

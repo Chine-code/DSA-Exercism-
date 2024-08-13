@@ -1,4 +1,0 @@
-/home/chinedum/snap/exercism/5/exercism/cpp/isogram/build/CMakeFiles/rebuild_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/isogram/build/CMakeFiles/edit_cache.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/isogram/build/CMakeFiles/test_isogram.dir
-/home/chinedum/snap/exercism/5/exercism/cpp/isogram/build/CMakeFiles/isogram.dir
