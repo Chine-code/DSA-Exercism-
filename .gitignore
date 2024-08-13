@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#build directories
+binary-search/build
+binary-search-tree/build
+clock/build
+hello-world/build
+isogram/build
+leap/build
+pangram/build
+phone-number/build
+reverse-string/build
+say/build
